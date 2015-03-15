@@ -1,5 +1,5 @@
 # SkyRanger
 Complete a drone project with mission to take pictures
-	identify available drone solutions
-	build from scratch or pre-assembles
-	choose drone/solution based on cost, time and required learning curve
+(1)	identify available drone solutions
+(2)	build from scratch or pre-assembles
+(3)	choose drone/solution based on cost, time and required learning curve
